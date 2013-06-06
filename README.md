@@ -40,10 +40,10 @@ Put `[migrate "0.1.0"]` into the `:plugins` vector of your project.clj.
 
 ### Migrate
 
-    $ lein run migrate
-    $ lein run migrate 0
-    $ lein run migrate latest
-    $ lein run migrate 2
+    $ lein run -m migrate.core
+    $ lein run -m migrate.core 0
+    $ lein run -m migrate.core latest
+    $ lein run -m migrate.core 2
 
 ## License
 
