@@ -1,6 +1,6 @@
 # migrate
 
-A Clojure library designed to perform simple migrations of clojure applications.
+A Clojure library designed to perform simple migrations.
 
 ## Usage
 
